@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./../styles/App.css";
+import "regenerator-runtime/runtime";
 
 const API_KEY = "ba6df9d78f99fd42482d86d1cff87a33";
 
